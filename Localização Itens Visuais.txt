@@ -1,0 +1,13 @@
+LOCALIZAÇÃO DOS ITENS VISUAIS TESTE PRÁTICO
+
+Produtos mais vendidos por quantidade -> ABA PRODUTOS
+
+Gráfico de clientes que mais compraram por quantidade (top 5) -> ABA RESUMO GERAL
+
+Gráfico de clientes que mais compraram por valor -> ABA RESUMO GERAL
+
+Timeline de quantidade de Vendas por mês e ano -> ABA VENDAS
+
+Gráfico de vendas por Estado com Drill Down no Município -> ABA VENDAS
+
+Categoria menos vendida (top 1) -> ABA PRODUTOS
